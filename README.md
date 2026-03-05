@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7950F2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Radzi+%F0%9F%91%8B;Python+Developer;Telegram+Bot+Engineer;CTF+%26+Security+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7950F2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Radzi+%F0%9F%91%8B;I+build+stuff+for+fun+with+Python+%F0%9F%90%8D" alt="Typing SVG" />
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zis3c.zis3c&"  />
 <a href="https://github.com/zis3c?tab=followers"><img src="https://img.shields.io/github/followers/zis3c?style=for-the-badge&color=7950f2&labelColor=1a1b27&logo=github" /></a>
@@ -11,29 +11,32 @@
 
 ---
 
-## 🧑‍💻 About Me
+## �️ Stack
 
-I'm a passionate developer who loves building **automation tools**, **Telegram bots**, and diving deep into **cybersecurity**. I enjoy turning complex problems into clean, efficient Python solutions.
+```bash
+$ whoami
+  zis3c — Python developer, CTF nerd, bot builder
 
-- 🔭 Currently building bots and automation pipelines
-- 🛡️ Active **CTF** player - reverse engineering & binary exploitation
-- 🤖 Specialized in **Telegram Bot API** (`aiogram`, `python-telegram-bot`)
-- ☁️ Deploying on **Render** & **Docker**
-- 🌐 Interested in security tooling, scripting, and low-level programming
+$ tech --list
+  Language  →  Python
+  Bots      →  aiogram, python-telegram-bot
+  Infra     →  Docker, Render
+  Tools     →  Git, Linux, Bash, VS Code
+  Interests →  Security, Automation, Reverse Engineering
 
----
-
-## 🛠️ Tech Stack
+$ status
+  Currently hacking on something cool...
+```
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,docker,linux,git,github,vscode,bash&perline=7" />
+<img src="https://skillicons.dev/icons?i=py,docker,linux,git,bash,vscode&perline=6" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
@@ -48,51 +51,7 @@ I'm a passionate developer who loves building **automation tools**, **Telegram b
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 [QRBot](https://github.com/zis3c/QRBot)
-> A versatile Telegram bot for generating and scanning QR codes - Text, WiFi, vCard, Geo, and Encoded formats.
-
-`Python` `aiogram` `Docker` `Telegram Bot API` `Automation`
-
----
-
-### 📊 [Tgreactsort](https://github.com/zis3c/Tgreactsort)
-> Fetch, sort, and visualize Telegram channel messages by reaction count via CLI and a web dashboard.
-
-`Python` `Telethon` `CLI` `Web Dashboard`
-
----
-
-### 🎓 [STEM-Telebot](https://github.com/zis3c/STEM-Telebot)
-> A Telegram bot to manage and verify student memberships with a Google Sheets backend. Features auto-registration, PDF receipts, admin dashboard, and 100+ concurrent request handling.
-
-`Python` `python-telegram-bot` `Google Sheets API` `asyncio` `Docker`
-
----
-
-### 🧩 [Polyglot-File](https://github.com/zis3c/Polyglot-File)
-> Experiments with polyglot files - files that are simultaneously valid in multiple formats.
-
-`Security` `Reverse Engineering` `Binary`
-
----
-
-### 🔍 [Compilation-and-RE-Process](https://github.com/zis3c/Compilation-and-RE-Process)
-> Deep dive into compilation and reverse engineering processes.
-
-`Reverse Engineering` `Assembly` `Security`
-
----
-
-### 🚩 [CTF-Writeups](https://github.com/zis3c/CTF-Writeups)
-> Collection of my Capture The Flag challenge writeups - solutions, notes, and methodology.
-
-`CTF` `Security` `Reverse Engineering` `Binary Exploitation`
-
----
-
-## 📈 GitHub Stats
+##  Stats
 
 <div align="center">
 
@@ -109,7 +68,7 @@ I'm a passionate developer who loves building **automation tools**, **Telegram b
 
 ---
 
-## 📊 Activity Graph
+## 📊 Activity
 
 <div align="center">
 
