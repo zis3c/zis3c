@@ -46,13 +46,6 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zis3c&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=00FF41&title_color=00FF41" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zis3c&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=zis3c&theme=tokyonight&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
 
 </div>
