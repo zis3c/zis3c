@@ -119,21 +119,11 @@ I'm a passionate developer who loves building **automation tools**, **Telegram b
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zis3c&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zis3c/zis3c/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zis3c/zis3c/output/snake.svg?palette=github-dark" alt="Snake animation"/>
 
 </div>
 
