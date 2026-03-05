@@ -19,30 +19,6 @@
 
 ## 🖥️ Stack
 
-```bash
-root@kali:~# cat /etc/zis3c/profile
-
-  ██ identity
-     handle   →  zis3c
-     name     →  Radzi Zamri
-     class    →  Python Dev / CTF Player / Bot Builder
-
-  ██ tools
-     lang     →  Python
-     bots     →  aiogram, python-telegram-bot
-     infra    →  Docker, Render
-     os       →  Linux
-     shell    →  Bash
-     editor   →  VS Code
-
-  ██ interests
-     security →  Reverse Engineering, Binary Exploitation
-     hobby    →  CTF Challenges
-     motto    →  Build. Break. Repeat.
-
-root@kali:~# █
-```
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,docker,linux,git,bash,vscode&perline=6" />
@@ -92,13 +68,5 @@ root@kali:~# █
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/zis3c/zis3c/output/snake.svg" alt="Snake animation"/>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=140&section=footer"/>
