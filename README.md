@@ -3,15 +3,15 @@
 <div align="center">
 
 <pre>
-╺━┓╻┏━┓┏━┓┏━╸
-┏━┛┃┗━┓╺━┫┃  
-┗━╸╹┗━┛┗━┛┗━╸
+╺━┓╻┏━┓┏━┓┏━╸   ┏━╸╻╺┳╸╻ ╻╻ ╻┏┓    ┏━┓┏━┓┏━┓┏━╸╻╻  ┏━╸
+┏━┛┃┗━┓╺━┫┃     ┃╺┓┃ ┃ ┣━┫┃ ┃┣┻┓   ┣━┛┣┳┛┃ ┃┣╸ ┃┃  ┣╸ 
+┗━╸╹┗━┛┗━┛┗━╸   ┗━┛╹ ╹ ╹ ╹┗━┛┗━┛   ╹  ╹┗╸┗━┛╹  ╹┗━╸┗━╸
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40github%3A~%23+whoami;%3E+Python+developer+%2F+CTF+player;%3E+I+build+stuff+for+fun+%F0%9F%90%8D;%3E+chmod+%2Bx+life.py+%26%26+./life.py" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=zis3c&style=for-the-badge&color=00FF41&labelColor=0d1117&label=VISITORS" />
-<a href="https://github.com/zis3c?tab=followers"><img src="https://img.shields.io/github/followers/zis3c?style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&label=FOLLOWERS" /></a>
+<a href="https://github.com/zis3c?tab=followers"><img src="https://img.shields.io/github/followers/zis3c?style=for-the-badge&color=0d1117&labelColor=00FF41&logo=github&logoColor=0d1117&label=FOLLOWERS" /></a>
 
 </div>
 
@@ -25,20 +25,7 @@
 
 </div>
 
----
 
-## 📡 Connect
-
-<div align="center">
-
-<a href="https://github.com/zis3c" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" />
-</a>
-<a href="https://t.me/zis3c" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00FF41" />
-</a>
-
-</div>
 
 ---
 
