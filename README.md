@@ -15,7 +15,7 @@
 I'm a passionate developer who loves building **automation tools**, **Telegram bots**, and diving deep into **cybersecurity**. I enjoy turning complex problems into clean, efficient Python solutions.
 
 - 🔭 Currently building bots and automation pipelines
-- 🛡️ Active **CTF** player — reverse engineering & binary exploitation
+- 🛡️ Active **CTF** player - reverse engineering & binary exploitation
 - 🤖 Specialized in **Telegram Bot API** (`aiogram`, `python-telegram-bot`)
 - ☁️ Deploying on **Render** & **Docker**
 - 🌐 Interested in security tooling, scripting, and low-level programming
@@ -41,7 +41,7 @@ I'm a passionate developer who loves building **automation tools**, **Telegram b
 ## 🚀 Featured Projects
 
 ### 🤖 [QRBot](https://github.com/zis3c/QRBot)
-> A versatile Telegram bot for generating and scanning QR codes — Text, WiFi, vCard, Geo, and Encoded formats.
+> A versatile Telegram bot for generating and scanning QR codes - Text, WiFi, vCard, Geo, and Encoded formats.
 
 `Python` `aiogram` `Docker` `Telegram Bot API` `Automation`
 
@@ -62,7 +62,7 @@ I'm a passionate developer who loves building **automation tools**, **Telegram b
 ---
 
 ### 🧩 [Polyglot-File](https://github.com/zis3c/Polyglot-File)
-> Experiments with polyglot files — files that are simultaneously valid in multiple formats.
+> Experiments with polyglot files - files that are simultaneously valid in multiple formats.
 
 `Security` `Reverse Engineering` `Binary`
 
@@ -76,7 +76,7 @@ I'm a passionate developer who loves building **automation tools**, **Telegram b
 ---
 
 ### 🚩 [CTF-Writeups](https://github.com/zis3c/CTF-Writeups)
-> Collection of my Capture The Flag challenge writeups — solutions, notes, and methodology.
+> Collection of my Capture The Flag challenge writeups - solutions, notes, and methodology.
 
 `CTF` `Security` `Reverse Engineering` `Binary Exploitation`
 
