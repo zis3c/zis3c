@@ -1,10 +1,11 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7950f2&height=120&section=header"/>
+
 <div align="center">
 
-# Hi, I'm Radzi 👋
-### Python Developer · Telegram Bot Engineer · CTF Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7950F2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Radzi+%F0%9F%91%8B;Python+Developer;Telegram+Bot+Engineer;CTF+%26+Security+Enthusiast" alt="Typing SVG" />
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zis3c.zis3c&"  />
-[![GitHub followers](https://img.shields.io/github/followers/zis3c?style=for-the-badge&color=7950f2&labelColor=1a1b27&logo=github)](https://github.com/zis3c?tab=followers)
+<a href="https://github.com/zis3c?tab=followers"><img src="https://img.shields.io/github/followers/zis3c?style=for-the-badge&color=7950f2&labelColor=1a1b27&logo=github" /></a>
 
 </div>
 
@@ -26,13 +27,22 @@ I'm a passionate developer who loves building **automation tools**, **Telegram b
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<img src="https://skillicons.dev/icons?i=py,docker,linux,git,github,vscode,bash&perline=7" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/zis3c" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
+</a>
+<a href="https://t.me/zis3c" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+</a>
 
 </div>
 
@@ -99,6 +109,16 @@ I'm a passionate developer who loves building **automation tools**, **Telegram b
 
 ---
 
+## 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zis3c&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -117,10 +137,4 @@ I'm a passionate developer who loves building **automation tools**, **Telegram b
 
 </div>
 
----
-
-<div align="center">
-
-*"Automate everything. Break things ethically. Build things that matter."*
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7950f2&height=120&section=footer"/>
