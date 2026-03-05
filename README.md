@@ -15,7 +15,7 @@
 
 ---
 
-## 🖥️ Stack
+## 🖥️
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 📈 Stats
+## 📈
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 Activity
+## 📊
 
 <div align="center">
 
