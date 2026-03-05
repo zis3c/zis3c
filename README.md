@@ -10,8 +10,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=root%40github%3A~%23+whoami;%3E+Python+developer+%2F+CTF+player;%3E+I+build+stuff+for+fun+%F0%9F%90%8D;%3E+chmod+%2Bx+life.py+%26%26+./life.py" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=zis3c&style=for-the-badge&color=0A84FF&labelColor=0d1117&label=VISITORS" />
-<a href="https://github.com/zis3c?tab=followers"><img src="https://img.shields.io/github/followers/zis3c?style=for-the-badge&color=0d1117&labelColor=0A84FF&logo=github&logoColor=0d1117&label=FOLLOWERS" /></a>
 
 </div>
 
