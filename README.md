@@ -3,8 +3,8 @@
 # Hi, I'm Radzi 👋
 ### Python Developer · Telegram Bot Engineer · CTF Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=zis3c&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/zis3c?style=for-the-badge&color=blueviolet&logo=github)](https://github.com/zis3c?tab=followers)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zis3c.zis3c&"  />
+[![GitHub followers](https://img.shields.io/github/followers/zis3c?style=for-the-badge&color=7950f2&labelColor=1a1b27&logo=github)](https://github.com/zis3c?tab=followers)
 
 </div>
 
@@ -113,11 +113,7 @@ I'm a passionate developer who loves building **automation tools**, **Telegram b
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zis3c/zis3c/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zis3c/zis3c/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zis3c/zis3c/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/zis3c/zis3c/output/snake.svg" alt="Snake animation" />
 
 </div>
 
